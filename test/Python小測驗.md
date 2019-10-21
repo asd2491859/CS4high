@@ -1,21 +1,29 @@
 # 程式閱讀題
 ```
-1.print("3*2*(17-2)")會印出甚麼結果:
-(A)0   (B)90  (C)出現錯誤,無法印出  (D)3*2*(17-2)
+.print("10*20*(546-542)"))會印出甚麼結果:
+(A)0   (B)90  (C)出現錯誤,無法印出  (D)D)10*20*(546-542)
 
-2.print(3*2*(17-2))會印出甚麼結果:
-(A)0   (B)90  (C)出現錯誤,無法印出  (D)3*2*(17-2)
+答案是:D
 
-3.print("abc""+""def")會印出甚麼結果:
-(A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)abcdef
+2.printprint("abccc"+"defff")會印出甚麼結果:
+(A)ant   (B)abcccdefff (C)90  (D)出現錯誤,無法印出
+答案是:B
+‵‵
+‵`
+3.print("vvv"+"www")會印出甚麼結果:
+(A)vwvww   (B)vvvwww  (C)vvv"+"www (D)出現錯誤,無法印出
 
-4.print("abc"+"def")會印出甚麼結果:
-(A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)abcdef
+答案是:B
 
-5.底下程式執行後結果為何?
-word = "arttarataaa"
-print(word.replace("a", "z",3))
-(A)出現錯誤,無法印出   (B)arttarataaa  (C)zrttzrztaaa (D)zrttzrztzzz
+4.print("def"+"ghi")會印出甚麼結果:
+(A)出現錯誤,無法印出   (B)abc+def  (C)abc""+""def  (D)defghi
+```
+答案是:defghi
+```
+word = "art"
+print(word.replace("X", "mmmmmmm"))
+```
+答案是:art
 
 6.底下程式執行後結果為何?
 word = "arttarataaa"
